@@ -13,7 +13,7 @@ function init(h, w, data) {
     var labelLeftOffset = 25;
 
     var wedges = [1, .85, .65, .4];
-    var labels = ["Avoid",  "Discuss", "Trial", "Adopt"];
+    var labels = ["Watch",  "Try", "Adopt", "Recommend"];
     var colours = ["#e6ccff", "#cc99ff", "#a64dff", "#6f5499"];
 
 
