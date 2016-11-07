@@ -14,7 +14,7 @@ function init(h, w, data) {
 
     var wedges = [1, .85, .65, .4];
     var labels = ["Watch",  "Try", "Adopt", "Recommend"];
-    var colours = ["#e6ccff", "#cc99ff", "#a64dff", "#6f5499"];
+    var colours = ["#d5d4d4", "#989594", "#6e6a69", "#312b2a"];
 
 
     var radar = new pv.Panel()
